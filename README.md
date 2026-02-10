@@ -1,37 +1,40 @@
-# Hi 👋, I'm Jitendra Kumar Gupta
+<h1 align="center">Hi 👋, I'm Jitendra Kumar Gupta</h1>
+<h3 align="center">Aspiring Software Engineer | DSA | Full-Stack Development</h3>
 
-🚀 Aspiring Software Engineer | DSA | Full-Stack Development  
-🎓 Computer Science Student | Passionate about Problem Solving
+<p align="center">
+  <em>Computer Science Student · Problem Solver · Backend & System Design Enthusiast</em>
+</p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 - Strong foundation in **Data Structures & Algorithms**
-- Building **real-world projects** with clean architecture
-- Interested in **Backend, System Design, and Scalable Applications**
-- Consistent learner & problem solver
+- Building **real-world, scalable applications**
+- Interested in **Backend Engineering, System Design, and APIs**
+- Consistent learner with a problem-solving mindset
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages**
+
+### 🚀 Languages
 - C++
 - Python
 - JavaScript
 - SQL
 
-**Frontend**
+### 🎨 Frontend
 - React
-- HTML
-- CSS
+- HTML5
+- CSS3
 
-**Backend**
+### ⚙️ Backend
 - Node.js
-- Express
+- Express.js
 - MongoDB
 - PostgreSQL
 
-**Tools**
+### 🔧 Tools & Platforms
 - Git & GitHub
 - Postman
 - VS Code
@@ -39,16 +42,18 @@
 ---
 
 ## 📈 DSA & Problem Solving
-- Solving problems on **LeetCode / HackerRank / GFG**
-- Focus on Arrays, Strings, Linked Lists, Trees, Graphs
-- Writing optimized and clean solutions
+- Regularly solving problems on **LeetCode, HackerRank, and GFG**
+- Strong in Arrays, Strings, Linked Lists, Trees, and Graphs
+- Focus on clean, optimized solutions
 
 ---
 
-## 🤝 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/jitendrakumargupta07/
-- 📧 Email: jitendrakrgupta05936@example.com
+## 🤝 Connect With Me
+- 💼 **LinkedIn**: https://www.linkedin.com/in/jitendrakumargupta07/
+- 📧 **Email**: jitendrakrgupta05936@example.com
 
 ---
 
-⭐ *Always learning. Always building.*
+<p align="center">
+  ⭐ <em>Always learning. Always building.</em>
+</p>
